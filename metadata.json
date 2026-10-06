@@ -1,0 +1,8 @@
+{
+  "name": "AcroMind RPS — AI Rock Paper Scissors",
+  "description": "An intelligent Rock Paper Scissors arena powered by predictive pattern-matching AI, Markov chain modeling, and psychological game-theory analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
